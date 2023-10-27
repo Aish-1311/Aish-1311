@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://aish-1311.github.io/Portfolio.github.io/index.html](https://aish-1311.github.io/Portfolio.github.io/index.html)
 
-- 📝 I regularly write articles on [https://aishwaryarao2.wordpress.com/](https://aishwaryarao2.wordpress.com/)
+- 📝 I also write Blogs on [https://aishwaryarao2.wordpress.com/](https://aishwaryarao2.wordpress.com/)
 <p align="left">
 </p>
 
